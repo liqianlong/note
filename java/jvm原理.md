@@ -1,6 +1,6 @@
 ## jvm原理
 
-[JVM（1）：Java 类的加载机制](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651478284&idx=1&sn=78b7413e9ef5c5408ffb4e159f56a603&chksm=bd2535738a52bc655358bf519d0d1dd06f33f5cc5d951131b31aaef48412c757f7b940a16225&scene=21#wechat_redirect)
+[JVM（1）：Java 类的加载机制](https://mp.weixin.qq.com/s/3LOSQnLNuaa-dEGXA-q4-w)
 
 [JVM（2）：JVM内存结构](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651478284&idx=1&sn=78b7413e9ef5c5408ffb4e159f56a603&chksm=bd2535738a52bc655358bf519d0d1dd06f33f5cc5d951131b31aaef48412c757f7b940a16225&scene=21#wechat_redirect)
 
